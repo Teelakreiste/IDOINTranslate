@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_291" class="java.beans.XMLDecoder">
+ <object class="traductor.saveConfig">
+  <void property="a">
+   <int>22</int>
+  </void>
+  <void property="de">
+   <int>90</int>
+  </void>
+ </object>
+</java>
